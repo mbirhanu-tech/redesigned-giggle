@@ -22,3 +22,15 @@ I debugged errors like AttributeError and TypeError: unhashable type: list.
 I explored __init__ and __str__ methods and inheritance with real-world analogies.
 I practiced with AI-generated multiple-choice quizzes and small projects, like a mini bank account system under 50 lines.
 https://chatgpt.com/share/68da046f-fdec-8012-abe7-6a6f2b4debd9
+
+Week 4
+Week 4 (09/22–09/28)
+
+This week I used AI mainly for object-oriented design practice.
+- I asked AI to model a real-world Car as a Python class. The first draft covered basics (make, model, year, VIN), but it missed behavior. I revised my prompt to require fuel efficiency, tank/battery size, odometer, maintenance interval and methods like estimate_range(), trip_cost(), refuel/charge(), and service_due().
+- I then asked for subclasses—GasCar, ElectricCar, Hybrid—and quick unit tests. Running the tests helped me spot edge cases (negative inputs, overfilling).
+- I used AI to explain two errors I hit (AttributeError from a typo and a division by zero in estimate_range) and to generate docstrings I edited to match my code.
+- I finished by writing my own version from scratch, using the AI output only as a reference.
+
+What I learned: Good prompts ask for both attributes and behaviors plus tests. AI is a great starting point, but I still need to verify logic and performance myself.
+https://chatgpt.com/share/68e41b5f-68ec-800f-8bac-033bdae69a63
