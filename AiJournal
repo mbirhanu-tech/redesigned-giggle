@@ -34,3 +34,11 @@ This week I used AI mainly for object-oriented design practice.
 
 What I learned: Good prompts ask for both attributes and behaviors plus tests. AI is a great starting point, but I still need to verify logic and performance myself.
 https://chatgpt.com/share/68e41b5f-68ec-800f-8bac-033bdae69a63
+
+Week 5
+
+- ChatGPT to better understand how Python achieves encapsulation through private attributes and the use of @property and @setter.
+- Conceptual questions about why properties are preferred over direct attribute access.
+- The AI helped me learn how getters and setters enforce validation, readability, and non-negative or restricted values.
+- It also explained the purpose of information hiding and how it improves clean, maintainable class design.
+- Overall, I used AI mainly for clarification and concept reinforcement, not to automatically complete the code.
