@@ -42,3 +42,13 @@ Week 5
 - The AI helped me learn how getters and setters enforce validation, readability, and non-negative or restricted values.
 - It also explained the purpose of information hiding and how it improves clean, maintainable class design.
 - Overall, I used AI mainly for clarification and concept reinforcement, not to automatically complete the code.
+
+Week 6
+
+- I asked AI to explain how to handle exceptions using try, except, and finally, with examples showing user input validation and file operations.
+- I used AI to compare different data structures—lists, tuples, and dictionaries—and when each is most efficient in real-world use.
+- For practice, I requested small coding challenges involving nested loops and dictionary lookups, which I solved first and then checked against the AI’s explanation.
+- I also asked AI to review my function documentation to make it clearer and more consistent with Python style guidelines.
+- Finally, I explored how to write unit tests using unittest to catch logic errors automatically before running larger programs.
+
+https://chatgpt.com/share/68fec8d2-f3fc-8012-b091-7faae2dc12ab
