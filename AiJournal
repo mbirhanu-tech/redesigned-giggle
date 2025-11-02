@@ -52,3 +52,11 @@ Week 6
 - Finally, I explored how to write unit tests using unittest to catch logic errors automatically before running larger programs.
 
 https://chatgpt.com/share/68fec8d2-f3fc-8012-b091-7faae2dc12ab
+
+Week 7
+
+- Learn how to use try, except, else, and finally blocks to handle errors safely and prevent program crashes.
+- Understand how to raise and create custom exceptions for specific problems in your code (e.g., missing books or invalid members).
+- Practice basic unit testing with unittest to verify that your code runs correctly and handles errors as expected.
+- Improve code reliability by catching predictable errors and writing cleaner, more maintainable programs.
+https://chatgpt.com/share/6907baa8-cd70-800f-a4ec-24d646fec7e5
