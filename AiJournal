@@ -60,3 +60,12 @@ Week 7
 - Practice basic unit testing with unittest to verify that your code runs correctly and handles errors as expected.
 - Improve code reliability by catching predictable errors and writing cleaner, more maintainable programs.
 https://chatgpt.com/share/6907baa8-cd70-800f-a4ec-24d646fec7e5
+
+Week 8
+
+- I asked AI to explain how parent and child classes share attributes and methods, and when to use super() to call the base class initializer.
+- I practiced by designing my own example classes, such as a BaseItem with subclasses like LibraryItem and MediaItem, and asked AI to review whether my inheritance structure followed good object-oriented design principles.
+- I also experimented with polymorphism by creating a list of different subclass objects and using a shared method to show how Python automatically calls the correct version for each type.
+- AI helped me compare inheritance with composition to understand when each approach is more appropriate for clean and maintainable code.
+https://chatgpt.com/share/6907baa8-cd70-800f-a4ec-24d646fec7e5
+
