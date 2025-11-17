@@ -69,3 +69,11 @@ Week 8
 - AI helped me compare inheritance with composition to understand when each approach is more appropriate for clean and maintainable code.
 https://chatgpt.com/share/6907baa8-cd70-800f-a4ec-24d646fec7e5
 
+Week 9
+
+- I used AI to review how Python’s Abstract Base Classes (ABCs) work, including why classes with abstract methods cannot be instantiated and how subclasses must override them.
+- I got help understanding “virtual subclasses” using register(), which let me treat a class like a LibraryItem without actual inheritance.
+- I asked AI to help me fix TypeErrors involving abstract methods when creating a broken subclass that forgot required implementations.
+- I practiced writing unit tests using AI guidance, focusing on checking subclass implementations and verifying correct behavior for late fees.
+https://chatgpt.com/share/691aabea-f418-800f-96b7-c5cb6278e9ee
+
