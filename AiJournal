@@ -77,3 +77,9 @@ Week 9
 - I practiced writing unit tests using AI guidance, focusing on checking subclass implementations and verifying correct behavior for late fees.
 https://chatgpt.com/share/691aabea-f418-800f-96b7-c5cb6278e9ee
 
+Week 10
+- Practiced adding custom dunder methods like __repr__, __str__, and __bool__ to make objects easier to debug and display.
+- Used properties and setters to validate attributes like title and copies so Book objects can’t be created with invalid data.
+- Learned how __post_init__ helps normalize values (e.g., stripping spaces from ISBN) right after the dataclass initializes.
+- Used AI to understand how catalog iteration, membership checks, and sorting work through dunder methods and total_ordering.
+- Wrote small unit tests with unittest to confirm that validation, sorting, and container behavior all work correctly.
