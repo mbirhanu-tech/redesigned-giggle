@@ -91,3 +91,19 @@ Week 11
 - I also used AI to compare text-based storage with database systems and learned when each approach is appropriate in software design.
 - Finally, I asked AI to explain how context managers work so I could understand why with open() is preferred over manually opening and closing files. I practiced by rewriting my earlier code using with blocks for cleaner resource management.
 https://chatgpt.com/share/693653e5-c954-800f-8d6d-cc7da89025ae
+Week 12
+- Reviewed the differences between unit tests, integration tests, and system tests and when each type is most appropriate.
+- Asked AI to help me think through realistic end-to-end workflows that should be tested, such as saving data, restarting a program, and verifying state persistence.
+- Used AI to clarify how to structure test files so they are discovered correctly by unittest. 
+- Asked for examples of common testing mistakes, such as testing implementation details instead of behavior, and adjusted my tests accordingly.
+Used AI to sanity-check my testing strategy to make sure it aligned with course expectations rather than adding unnecessary complexity.
+https://chatgpt.com/share/693653e5-c954-800f-8d6d-cc7da89025ae
+Week 13
+This week, I used AI primarily for reflection, documentation, and final project polish:
+- Used AI to help organize and clarify technical documentation, including explaining architecture decisions in clear language.
+- Asked AI to review my README structure to ensure it clearly explained setup, usage, and testing instructions.
+- Used AI to prepare for the final video presentation by outlining what to explain during the system demonstration.
+- Asked AI clarifying questions about how to present a solo project professionally, even though it was originally designed as a group assignment.
+- Reflected on how AI supported my learning throughout the semester without replacing my own problem-solving or coding work.
+https://chatgpt.com/share/693653e5-c954-800f-8d6d-cc7da89025ae
+This week reinforced that AI is most useful as a support tool for explanation, organization, and reflection rather than as a substitute for doing the work myself.
